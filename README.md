@@ -54,13 +54,11 @@ This project is an **Automated Multiple Choice Question (MCQ) Generator** that l
 
 ![Screenshot (1014)](https://github.com/user-attachments/assets/12e422e6-5920-4ae0-bac4-ae26a0b5df76)
 
-![Screenshot (1015)](https://github.com/user-attachments/assets/3e6f4d99-95d4-4e67-ad3a-4e89c7796c3f)
-
 ![Screenshot (1023)](https://github.com/user-attachments/assets/806ca507-c27b-4fd3-9818-a3ba68165208)
 
-![Screenshot (1025)](https://github.com/user-attachments/assets/9e5c8812-d111-4d4a-b72f-c39ebf274f4b)
+![Screenshot (1025)](https://github.com/user-attachments/assets/114031d3-6c08-4daa-9fd3-5e3dc3976b9f)
 
-![Screenshot (1026)](https://github.com/user-attachments/assets/6e7c337e-e419-4050-ba07-cacc502d7a77)
+![Screenshot (1026)](https://github.com/user-attachments/assets/ba49f62f-d297-410e-bf48-abf4f8f6c39b)
 
 ---
 
